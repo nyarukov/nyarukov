@@ -7,8 +7,8 @@
 - ✨联系我
   - Email：luckychaoyue1@gmail.com
 - 🔭技术
-  - Linux驱动开发
-  - C++
-  - OpenCV
+  - STM32
+  - I.MX6ULL
+  - PCB
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyarukov&show_icons=true&theme=shades-of-purple)
